@@ -1,6 +1,6 @@
 # Yamdb
 
-![Api Yamdb](https://github.com/Mikhail-Kushnerev/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+![Api Yamdb](https://github.com/Mikhail-Kushnerev/yamdb_final/workflows/yamdb/badge.svg)
 
 ## Оглавление
 
