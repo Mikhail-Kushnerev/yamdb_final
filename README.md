@@ -1,4 +1,5 @@
 # Yamdb
+
 ![Api Yamdb](https://github.com/Mikhail-Kushnerev/yamdb_final/workflows/Api%20Yamdb/badge.svg)
 
 ## Оглавление
@@ -11,6 +12,7 @@
 Микросервис **Yamdb**, где пользователи могут оценивать и комментировать книги, фильмы, музыку.
 
 ## Технологии
+
 - Python 3.10;
 - Docker, Docker-Compose;
 - Nginx;
@@ -20,6 +22,7 @@
 [Оглавление](#оглавление)
 
 ## Авторы
+
 [Mikhail Kushnerev](https://github.com/Mikhail-Kushnerev)
 
 [Оглавление](#оглавление)
