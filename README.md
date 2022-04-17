@@ -12,6 +12,7 @@
 ## Технологии
 
 - Python 3.10;
+- Django;
 - Docker, Docker-Compose;
 - Nginx;
 - CI/CD.
