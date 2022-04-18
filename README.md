@@ -1,5 +1,7 @@
 # Yamdb
 
+Доступен по ссылке: [Yamdb](http://51.250.104.248/api/v1/)
+
 ![Api Yamdb](https://github.com/Mikhail-Kushnerev/yamdb_final/workflows/yamdb/badge.svg)
 
 ## Оглавление
