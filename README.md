@@ -2,8 +2,6 @@
 
 ![Api Yamdb](https://github.com/Mikhail-Kushnerev/yamdb_final/workflows/yamdb/badge.svg)
 
-Доступен по ссылке:
-
 Документация по сервису:
 [Redoc](http://51.250.104.248/redoc/)
 
