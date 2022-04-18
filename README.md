@@ -3,8 +3,7 @@
 ![Api Yamdb](https://github.com/Mikhail-Kushnerev/yamdb_final/workflows/yamdb/badge.svg)
 
 Доступен по ссылкам:
-- [Yamdb](http://51.250.104.248/api/v1/)  
-- [Redoc](http://51.250.104.248/redoc/)
+- [Yamdb](http://51.250.104.248/api/v1/). 
 
 ## Оглавление
 
